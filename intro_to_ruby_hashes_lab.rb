@@ -4,8 +4,8 @@ end
 
 def my_hash
   my_hash = {
-    noise_level => ["too high"],
-    number_of_instruments => [2]
+    :noise_level => ["too high"],
+    :number_of_instruments => [2]
   }
   my_hash
 # return a valid hash with any key/value pair of your choice
