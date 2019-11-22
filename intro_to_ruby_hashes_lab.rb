@@ -6,7 +6,7 @@ def my_hash
   my_hash = {
     :noise_level => "too high"
   }
-  p my_hash
+  my_hash
   # return a valid hash with any key/value pair of your choice
 end
 
