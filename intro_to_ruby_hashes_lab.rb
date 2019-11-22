@@ -6,7 +6,8 @@ def my_hash
   my_hash = {
     noise_level = ["too high"],
     number_of_instruments = [2]
-  }# return a valid hash with any key/value pair of your choice
+  }
+# return a valid hash with any key/value pair of your choice
 end
 
 def pioneer
