@@ -42,6 +42,7 @@ if hash[key]
   hash[key]
 else
   hash[key] = 1
+  hash[key]
 end
 end
     # given a hash an a key as parameters, return an updated hash
